@@ -78,7 +78,7 @@ This remix tutorial will show you [how to query the blockchain using web3js](htt
 
 These libraries give you functionality to create wallets, manage keys and sign transactions.
 
-Here's an examples from Ethers
+Here's an example from Ethers
 
 ```js
 // Create a wallet instance from a mnemonic...
